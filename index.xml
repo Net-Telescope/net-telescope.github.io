@@ -6,36 +6,63 @@
     <description>Recent content on Net Telescope Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 23 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jun 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://net-telescope.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Our People</title>
-      <link>https://net-telescope.github.io/people/</link>
-      <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
+      <link>https://net-telescope.github.io/post/people/</link>
+      <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://net-telescope.github.io/people/</guid>
+      <guid>https://net-telescope.github.io/post/people/</guid>
+      <description>This is a test post.</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://net-telescope.github.io/post/research/</link>
+      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://net-telescope.github.io/post/research/</guid>
       <description>This is a test post.</description>
     </item>
     
     <item>
       <title>Publications</title>
       <link>https://net-telescope.github.io/post/publications/</link>
-      <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 24 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>https://net-telescope.github.io/post/publications/</guid>
-      <description>這是測試文字。</description>
+      <description>publications</description>
     </item>
     
     <item>
-      <title>Yen-Hung Chen</title>
-      <link>https://net-telescope.github.io/about/</link>
+      <title>Course</title>
+      <link>https://net-telescope.github.io/post/course/</link>
       <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
       
+      <guid>https://net-telescope.github.io/post/course/</guid>
+      <description>course</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://net-telescope.github.io/about/</link>
+      <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
+      
       <guid>https://net-telescope.github.io/about/</guid>
-      <description>This is a test post.</description>
+      <description>all about</description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>https://net-telescope.github.io/tutorial/test/</link>
+      <pubDate>Sun, 23 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://net-telescope.github.io/tutorial/test/</guid>
+      <description>of course</description>
     </item>
     
   </channel>

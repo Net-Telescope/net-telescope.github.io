@@ -3,77 +3,91 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://net-telescope.github.io/people/</loc>
-    <lastmod>2017-06-23T00:00:00+00:00</lastmod>
+    <loc>https://net-telescope.github.io/post/people/</loc>
+    <lastmod>2017-06-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://net-telescope.github.io/post/research/</loc>
+    <lastmod>2017-06-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://net-telescope.github.io/post/publications/</loc>
+    <lastmod>2017-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://net-telescope.github.io/post/course/</loc>
     <lastmod>2017-06-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://net-telescope.github.io/about/</loc>
-    <lastmod>2017-06-23T00:00:00+00:00</lastmod>
+    <lastmod>2017-05-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://net-telescope.github.io/tutorial/test/</loc>
+    <lastmod>2017-04-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://net-telescope.github.io/categories/</loc>
-    <lastmod>2017-06-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://net-telescope.github.io/tags/about/</loc>
-    <lastmod>2017-06-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://net-telescope.github.io/categories/about/</loc>
-    <lastmod>2017-06-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://net-telescope.github.io/categories/</loc>
-    <lastmod>2017-06-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://net-telescope.github.io/tags/condition/</loc>
-    <lastmod>2017-06-23T00:00:00+00:00</lastmod>
+    <lastmod>2017-06-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://net-telescope.github.io/</loc>
-    <lastmod>2017-06-23T00:00:00+00:00</lastmod>
+    <lastmod>2017-06-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://net-telescope.github.io/categories/our-people/</loc>
-    <lastmod>2017-06-23T00:00:00+00:00</lastmod>
+    <lastmod>2017-06-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://net-telescope.github.io/categories/post/</loc>
-    <lastmod>2017-06-23T00:00:00+00:00</lastmod>
+    <lastmod>2017-06-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://net-telescope.github.io/post/</loc>
-    <lastmod>2017-06-23T00:00:00+00:00</lastmod>
+    <lastmod>2017-06-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://net-telescope.github.io/tags/research/</loc>
+    <lastmod>2017-06-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://net-telescope.github.io/categories/research/</loc>
+    <lastmod>2017-06-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://net-telescope.github.io/tags/</loc>
-    <lastmod>2017-06-23T00:00:00+00:00</lastmod>
+    <lastmod>2017-06-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://net-telescope.github.io/tutorial/</loc>
+    <lastmod>2017-04-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorials on Net Telescope Lab</title>
+    <link>https://net-telescope.github.io/tutorial/</link>
+    <description>Recent content in Tutorials on Net Telescope Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-TW</language>
+    <lastBuildDate>Sun, 23 Apr 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://net-telescope.github.io/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>test</title>
+      <link>https://net-telescope.github.io/tutorial/test/</link>
+      <pubDate>Sun, 23 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://net-telescope.github.io/tutorial/test/</guid>
+      <description>of course</description>
+    </item>
+    
+  </channel>
+</rss>

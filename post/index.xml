@@ -6,18 +6,45 @@
     <description>Recent content in Posts on Net Telescope Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 23 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jun 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://net-telescope.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Our People</title>
+      <link>https://net-telescope.github.io/post/people/</link>
+      <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://net-telescope.github.io/post/people/</guid>
+      <description>This is a test post.</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://net-telescope.github.io/post/research/</link>
+      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://net-telescope.github.io/post/research/</guid>
+      <description>This is a test post.</description>
+    </item>
+    
+    <item>
       <title>Publications</title>
       <link>https://net-telescope.github.io/post/publications/</link>
-      <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 24 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>https://net-telescope.github.io/post/publications/</guid>
-      <description>這是測試文字。</description>
+      <description>publications</description>
+    </item>
+    
+    <item>
+      <title>Course</title>
+      <link>https://net-telescope.github.io/post/course/</link>
+      <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://net-telescope.github.io/post/course/</guid>
+      <description>course</description>
     </item>
     
   </channel>
