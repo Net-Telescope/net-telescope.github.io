@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About on Net Telescope Lab</title>
-    <link>https://net-telescope.github.io/tags/about/</link>
-    <description>Recent content in About on Net Telescope Lab</description>
+    <title>Our People on Net Telescope Lab</title>
+    <link>https://net-telescope.github.io/categories/our-people/</link>
+    <description>Recent content in Our People on Net Telescope Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
     <lastBuildDate>Fri, 23 Jun 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://net-telescope.github.io/tags/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://net-telescope.github.io/categories/our-people/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,15 +17,6 @@
       <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>https://net-telescope.github.io/people/</guid>
-      <description>This is a test post.</description>
-    </item>
-    
-    <item>
-      <title>Yen-Hung Chen</title>
-      <link>https://net-telescope.github.io/about/</link>
-      <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://net-telescope.github.io/about/</guid>
       <description>This is a test post.</description>
     </item>
     
