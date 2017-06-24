@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Net Telescope Lab</title>
+    <link>https://net-telescope.github.io/tags/</link>
+    <description>Recent content in Tags on Net Telescope Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-TW</language>
+    <lastBuildDate>Fri, 23 Jun 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://net-telescope.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://net-telescope.github.io/tags/about/</link>
+      <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://net-telescope.github.io/tags/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Condition</title>
+      <link>https://net-telescope.github.io/tags/condition/</link>
+      <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://net-telescope.github.io/tags/condition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development</title>
+      <link>https://net-telescope.github.io/tags/development/</link>
+      <pubDate>Fri, 21 Jun 2013 11:27:27 -0400</pubDate>
+      
+      <guid>https://net-telescope.github.io/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Go</title>
+      <link>https://net-telescope.github.io/tags/go/</link>
+      <pubDate>Fri, 21 Jun 2013 11:27:27 -0400</pubDate>
+      
+      <guid>https://net-telescope.github.io/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Profiling</title>
+      <link>https://net-telescope.github.io/tags/profiling/</link>
+      <pubDate>Fri, 21 Jun 2013 11:27:27 -0400</pubDate>
+      
+      <guid>https://net-telescope.github.io/tags/profiling/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
