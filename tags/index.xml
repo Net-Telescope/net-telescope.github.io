@@ -29,32 +29,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>Development</title>
-      <link>https://net-telescope.github.io/tags/development/</link>
-      <pubDate>Fri, 21 Jun 2013 11:27:27 -0400</pubDate>
-      
-      <guid>https://net-telescope.github.io/tags/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Go</title>
-      <link>https://net-telescope.github.io/tags/go/</link>
-      <pubDate>Fri, 21 Jun 2013 11:27:27 -0400</pubDate>
-      
-      <guid>https://net-telescope.github.io/tags/go/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Profiling</title>
-      <link>https://net-telescope.github.io/tags/profiling/</link>
-      <pubDate>Fri, 21 Jun 2013 11:27:27 -0400</pubDate>
-      
-      <guid>https://net-telescope.github.io/tags/profiling/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

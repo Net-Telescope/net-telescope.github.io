@@ -20,26 +20,5 @@
       <description>這是測試文字。</description>
     </item>
     
-    <item>
-      <title>readme</title>
-      <link>https://net-telescope.github.io/post/2017/readme/</link>
-      <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://net-telescope.github.io/post/2017/readme/</guid>
-      <description>wha hahahah</description>
-    </item>
-    
-    <item>
-      <title>Nitro: A quick and simple profiler for Go</title>
-      <link>https://net-telescope.github.io/post/test/nitroaa/</link>
-      <pubDate>Fri, 21 Jun 2013 11:27:27 -0400</pubDate>
-      
-      <guid>https://net-telescope.github.io/post/test/nitroaa/</guid>
-      <description>Nitro Quick and easy performance analyzer library for Go.
-Overview Nitro is a quick and easy performance analyzer library for Go. It is useful for comparing A/B against different drafts of functions or different functions.
-Implementing Nitro Using Nitro is simple. First, use go get to install the latest version of the library.
-$ go get github.com/spf13/nitro  Next, include nitro in your application.</description>
-    </item>
-    
   </channel>
 </rss>
