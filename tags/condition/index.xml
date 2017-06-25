@@ -6,44 +6,35 @@
     <description>Recent content in Condition on Net Telescope Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 26 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jun 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://net-telescope.github.io/tags/condition/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Our People</title>
-      <link>https://net-telescope.github.io/post/people/</link>
-      <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://net-telescope.github.io/post/people/</guid>
-      <description>This is a test post.</description>
-    </item>
-    
-    <item>
       <title>Publications</title>
-      <link>https://net-telescope.github.io/post/publications/</link>
+      <link>https://net-telescope.github.io/z/2017/06/24/publications/</link>
       <pubDate>Sat, 24 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://net-telescope.github.io/post/publications/</guid>
+      <guid>https://net-telescope.github.io/z/2017/06/24/publications/</guid>
       <description>publications</description>
     </item>
     
     <item>
       <title>Course</title>
-      <link>https://net-telescope.github.io/post/course/</link>
+      <link>https://net-telescope.github.io/z/2017/06/23/course/</link>
       <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://net-telescope.github.io/post/course/</guid>
+      <guid>https://net-telescope.github.io/z/2017/06/23/course/</guid>
       <description>course</description>
     </item>
     
     <item>
-      <title>about</title>
-      <link>https://net-telescope.github.io/zsystem/about/</link>
+      <title>about us</title>
+      <link>https://net-telescope.github.io/x/2017/05/23/about/</link>
       <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://net-telescope.github.io/zsystem/about/</guid>
+      <guid>https://net-telescope.github.io/x/2017/05/23/about/</guid>
       <description>all about</description>
     </item>
     

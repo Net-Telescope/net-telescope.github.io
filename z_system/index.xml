@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Z_systems on Net Telescope Lab</title>
+    <link>https://net-telescope.github.io/z_system/</link>
+    <description>Recent content in Z_systems on Net Telescope Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-TW</language>
+    <lastBuildDate>Tue, 23 May 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://net-telescope.github.io/z_system/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>about us</title>
+      <link>https://net-telescope.github.io/x/2017/05/23/about/</link>
+      <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://net-telescope.github.io/x/2017/05/23/about/</guid>
+      <description>all about</description>
+    </item>
+    
+    <item>
+      <title>Under construction...</title>
+      <link>https://net-telescope.github.io/x/2012/04/06/404/</link>
+      <pubDate>Fri, 06 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://net-telescope.github.io/x/2012/04/06/404/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
