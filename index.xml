@@ -30,6 +30,15 @@
     </item>
     
     <item>
+      <title>test</title>
+      <link>https://net-telescope.github.io/tutorial/test/</link>
+      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://net-telescope.github.io/tutorial/test/</guid>
+      <description>This is a test post.</description>
+    </item>
+    
+    <item>
       <title>Publications</title>
       <link>https://net-telescope.github.io/post/publications/</link>
       <pubDate>Sat, 24 Jun 2017 00:00:00 +0000</pubDate>
@@ -57,12 +66,12 @@
     </item>
     
     <item>
-      <title>error</title>
+      <title>Under construction...</title>
       <link>https://net-telescope.github.io/404/</link>
       <pubDate>Sat, 23 May 2015 00:00:00 +0000</pubDate>
       
       <guid>https://net-telescope.github.io/404/</guid>
-      <description>error</description>
+      <description></description>
     </item>
     
   </channel>

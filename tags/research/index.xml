@@ -20,5 +20,14 @@
       <description>This is a test post.</description>
     </item>
     
+    <item>
+      <title>test</title>
+      <link>https://net-telescope.github.io/tutorial/test/</link>
+      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://net-telescope.github.io/tutorial/test/</guid>
+      <description>This is a test post.</description>
+    </item>
+    
   </channel>
 </rss>
