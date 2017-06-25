@@ -29,14 +29,5 @@
       <description>course</description>
     </item>
     
-    <item>
-      <title>test</title>
-      <link>https://net-telescope.github.io/tutorial/test/</link>
-      <pubDate>Sun, 23 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://net-telescope.github.io/tutorial/test/</guid>
-      <description>of course</description>
-    </item>
-    
   </channel>
 </rss>
