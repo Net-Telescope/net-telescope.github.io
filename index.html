@@ -62,10 +62,13 @@
 	
 		
 		<li class="menu-item ">
-			<form method="get" action="https://duckduckgo.com/"> 
-				<input size="18" name="q" placeholder="Search..">
-				<input type="hidden" value="net-telescope.github.io" name="site">
-			</form>
+		<div class="display-inline">
+		  <form method="get" id="search" action="http://duckduckgo.com/">
+			<input type="hidden" name="sites" value="net-telescope.github.io" />
+			<input type="text" name="q" maxlength="255" placeholder=" search..." />
+			<input type="image" src="https://net-telescope.github.io/img/search-icon.png"  />
+		  </form>
+		  </div>
 		</li>
 		
 
