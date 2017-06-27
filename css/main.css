@@ -1041,7 +1041,7 @@ pre .javascript .function {
   transform: rotate(30deg);
 }
 .posts-expand {
-  padding-top: 40px;
+  padding-top: 5px;
 }
 @media (max-width: 767px) {
   .posts-expand {
@@ -1235,10 +1235,11 @@ pre .javascript .function {
 .posts-expand .post-title-link {
   display: inline-block;
   position: relative;
-  color: #555;
+  color: #07438B;
   border-bottom: none;
   line-height: 1.2;
   vertical-align: top;
+  font-weight: bold;
 }
 .posts-expand .post-title-link::before {
   content: "";
@@ -1271,7 +1272,7 @@ pre .javascript .function {
 }
 .posts-expand .post-meta {
   margin: 3px 0 60px 0;
-  color: #999;
+  color: #111;
   font-family: 'Monda', "PingFang SC", "Microsoft YaHei", sans-serif;
   font-size: 12px;
   text-align: center;
@@ -1282,7 +1283,7 @@ pre .javascript .function {
   padding: 3px;
 }
 .posts-expand .post-meta .post-category-list-link {
-  color: #999;
+  color: #111;
 }
 .post-meta-item-icon {
   display: none;
@@ -1323,15 +1324,14 @@ pre .javascript .function {
   border-radius: 2px;
   line-height: 2;
 }
-.posts-expand .post-tags {
-  margin-top: 40px;
-  text-align: center;
+.posts-expand .post-tags{
+  text-align: left;
 }
 .posts-expand .post-tags a {
-  display: inline-block;
-  margin-right: 10px;
+  margin-right: 5px;
   font-size: 13px;
 }
+
 .post-nav {
   display: table;
   margin-top: 60px;
@@ -2339,7 +2339,7 @@ body {
 .content-wrap {
   float: right;
   box-sizing: border-box;
-  padding: 40px;
+  padding: 20px;
   width: 700px;
   background: #fff;
   min-height: 700px;

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test on Net Telescope Lab</title>
+    <link>https://net-telescope.github.io/tags/test/</link>
+    <description>Recent content in Test on Net Telescope Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-TW</language>
+    <lastBuildDate>Sun, 25 Jun 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://net-telescope.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Research</title>
+      <link>https://net-telescope.github.io/z/2017/06/25/research/</link>
+      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://net-telescope.github.io/z/2017/06/25/research/</guid>
+      <description>a1 to be or not to be, that is the question a11 to be or not to be, that is the question a12 to be or not to be, that is the question b1 to be or not to be, that is the question c2 to be or not to be, that is the question This is a test post. to be or not to be, that is the question</description>
+    </item>
+    
+  </channel>
+</rss>
