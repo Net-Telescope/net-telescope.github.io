@@ -2673,11 +2673,11 @@ form > input[type="text"] {
 
 <!-- toc start-->
 article .article-content{padding:1.5em 5%;}
-.toc-article{background:#eee;margin:0.1em 0 0 .5em;padding:1em 1em 0.2em 1em;line-height:1.5em;font-size:.9em;float:right;}
+.toc-article{background:#eee;margin:0 0 0 1em;padding:0;line-height:1.5em;font-size:.9em; width:240px;float:right;clear:right}
 
 #TableOfContents { margin: 1em 0 0 0; }
 #TableOfContents ul { list-style-type:none; }
-#TableOfContents ul li { list-style-type:none;padding: 0 5px; }
+#TableOfContents ul li { list-style-type:none;padding: 0 0.8em; }
 #TableOfContents > ul { padding: 0; }
-#TableOfContents > ul > li > ul { padding: 0; }
+#TableOfContents > ul > li > ul { padding: 0.3em; }
 <!-- toc end-->
