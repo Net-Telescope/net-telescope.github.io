@@ -2673,7 +2673,7 @@ form > input[type="text"] {
 
 <!-- toc start-->
 article .article-content{padding:1.5em 5%;}
-.toc-article{background:#eee;margin:0.1em 0 0 .5em;padding:1em 2em 0.2em 1em;line-height:1.5em;font-size:.9em;float:right;}
+.toc-article{background:#eee;margin:0.1em 0 0 .5em;padding:1em 1em 0.2em 1em;line-height:1.5em;font-size:.9em;float:right;}
 
 #TableOfContents { margin: 1em 0 0 0; }
 #TableOfContents ul { list-style-type:none; }
