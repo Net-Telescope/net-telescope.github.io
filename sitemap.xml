@@ -3,37 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://net-telescope.github.io/z/2017/06/25/research/</loc>
+    <loc>https://net-telescope.github.io/z/2017/07/07/2017-fall-semester/</loc>
+    <lastmod>2017-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://net-telescope.github.io/about/achivement/</loc>
     <lastmod>2017-06-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://net-telescope.github.io/tutorial/test/</loc>
+    <loc>https://net-telescope.github.io/about/research/</loc>
     <lastmod>2017-06-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://net-telescope.github.io/z/2017/06/24/publications/</loc>
-    <lastmod>2017-06-24T00:00:00+00:00</lastmod>
+    <loc>https://net-telescope.github.io/about/resource/</loc>
+    <lastmod>2017-06-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://net-telescope.github.io/z/2017/06/23/course/</loc>
-    <lastmod>2017-06-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://net-telescope.github.io/x/2017/05/23/about/</loc>
+    <loc>https://net-telescope.github.io/about/people/</loc>
     <lastmod>2017-05-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://net-telescope.github.io/z/2016/12/12/people/</loc>
-    <lastmod>2016-12-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://net-telescope.github.io/x/2012/04/06/404/</loc>
+    <loc>https://net-telescope.github.io/about/404/</loc>
     <lastmod>2012-04-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -43,7 +38,7 @@
   
   <url>
     <loc>https://net-telescope.github.io/post/</loc>
-    <lastmod>2017-06-25T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -52,54 +47,30 @@
   
   <url>
     <loc>https://net-telescope.github.io/tags/condition/</loc>
-    <lastmod>2017-06-24T00:00:00+00:00</lastmod>
+    <lastmod>2017-05-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://net-telescope.github.io/categories/ouch/</loc>
-    <lastmod>2017-06-25T00:00:00+00:00</lastmod>
+    <loc>https://net-telescope.github.io/tags/course/</loc>
+    <lastmod>2017-07-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://net-telescope.github.io/categories/post/</loc>
-    <lastmod>2017-06-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://net-telescope.github.io/tags/research/</loc>
-    <lastmod>2017-06-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://net-telescope.github.io/categories/research/</loc>
-    <lastmod>2017-06-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://net-telescope.github.io/tags/test/</loc>
-    <lastmod>2017-06-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://net-telescope.github.io/tutorial/</loc>
-    <lastmod>2017-06-25T00:00:00+00:00</lastmod>
+    <loc>https://net-telescope.github.io/categories/course/</loc>
+    <lastmod>2017-07-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://net-telescope.github.io/</loc>
-    <lastmod>2017-06-25T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://net-telescope.github.io/z_system/</loc>
-    <lastmod>2017-05-23T00:00:00+00:00</lastmod>
+    <lastmod>2017-06-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

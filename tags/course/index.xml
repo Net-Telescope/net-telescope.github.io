@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Net Telescope Lab</title>
-    <link>https://net-telescope.github.io/post/</link>
-    <description>Recent content on Net Telescope Lab</description>
+    <title>Course on Net Telescope Lab</title>
+    <link>https://net-telescope.github.io/tags/course/</link>
+    <description>Recent content in Course on Net Telescope Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
     <lastBuildDate>Fri, 07 Jul 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://net-telescope.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://net-telescope.github.io/tags/course/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
