@@ -1,33 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome to join Net Telescope Lab on Net Telescope Lab</title>
+    <title>Welcome to Join Net Telescope Lab on Net Telescope Lab</title>
     <link>https://net-telescope.github.io/</link>
-    <description>Recent content in Welcome to join Net Telescope Lab on Net Telescope Lab</description>
+    <description>Recent content in Welcome to Join Net Telescope Lab on Net Telescope Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 07 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jun 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://net-telescope.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>2017-Fall-Semester</title>
-      <link>https://net-telescope.github.io/z/2017/07/07/2017-fall-semester/</link>
-      <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://net-telescope.github.io/z/2017/07/07/2017-fall-semester/</guid>
-      <description>Programming (A) &amp;hellip;
-Programming (B) &amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Achivement</title>
-      <link>https://net-telescope.github.io/about/achivement/</link>
+      <title>Publications</title>
+      <link>https://net-telescope.github.io/about/publication/</link>
       <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://net-telescope.github.io/about/achivement/</guid>
-      <description>&amp;hellip;</description>
+      <guid>https://net-telescope.github.io/about/publication/</guid>
+      <description>Publications</description>
     </item>
     
     <item>
@@ -36,7 +26,7 @@ Programming (B) &amp;hellip;</description>
       <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>https://net-telescope.github.io/about/research/</guid>
-      <description> Net Telescope Lab  Net Telescope Lab (NT-Lab) is a research team headed by Dr. Yen-Hung Chen, locating in National Taipei University of Nursing and Health Sciences (NTUNHS), Taipei.  Focus domain  We are working on:  Observing significant changes in connectivity geolocated to East Asia region, Identifying large-scale events happened on the Internet, Establishing agenda, alternatives, and national/business policies   </description>
+      <description> About Net Telescope Lab  Net Telescope Lab (NT-Lab) is a research team headed by Dr. Yen-Hung Chen, locating in National Taipei University of Nursing and Health Sciences (NTUNHS), Taipei.  Our Focusing domain  We are working on:  Observing significant changes in connectivity geolocated to East Asia region, Identifying large-scale events happened on the Internet, Establishing agenda, alternatives, and national/business policies    </description>
     </item>
     
     <item>
@@ -45,16 +35,16 @@ Programming (B) &amp;hellip;</description>
       <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>https://net-telescope.github.io/about/resource/</guid>
-      <description>This is Resource a11 to be or not to be, that is the question a12 to be or not to be, that is the question b1 to be or not to be, that is the question c2 to be or not to be, that is the question This is a test post. to be or not to be, that is the question</description>
+      <description></description>
     </item>
     
     <item>
-      <title>about us</title>
+      <title>Our People</title>
       <link>https://net-telescope.github.io/about/people/</link>
       <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
       
       <guid>https://net-telescope.github.io/about/people/</guid>
-      <description>all about</description>
+      <description>Principal Investigator Name Dr. Yen-Hung Chen (陳彥宏) Email pplong.ch+lab @ gmail.com yenhung @ ntunhs.edu.tw Website https://net-telescope.github.io Publications Publications List Currently Focusing on Observing significant changes in connectivity geolocated to East Asia region Identifying large-scale events happened on the Internet Establishing agenda, alternatives, and national/business policies considering above issues Expertise Network Protocol Design Network Performance Evaluation National Telecomm. Policy Shaping Experience 2017-Now: Assistant Professor, Dept. of Information</description>
     </item>
     
     <item>

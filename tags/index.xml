@@ -10,23 +10,5 @@
 	<atom:link href="https://net-telescope.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>Condition</title>
-      <link>https://net-telescope.github.io/tags/condition/</link>
-      <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://net-telescope.github.io/tags/condition/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Course</title>
-      <link>https://net-telescope.github.io/tags/course/</link>
-      <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://net-telescope.github.io/tags/course/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
